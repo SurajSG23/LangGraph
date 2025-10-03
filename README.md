@@ -1,3 +1,9 @@
+# Repo Content:
+```
+├── Module-1.ipynb     # Introduction to LangGraph
+├── Module-2.ipynb     # Annotated Construct and Reducer Functions
+├── Module-3.ipynb     # Thread-Level Persistence
+```
 # LangGraph
 
 * **LangGraph** is a way to connect multiple steps (like prompts, models, or tools) into a graph instead of a straight line.
